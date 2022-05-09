@@ -6,7 +6,7 @@
   "tags": [],
   "url": "https://github.com/enthus1ast/nimCommandParser",
   "refs": [
-    "fatal: unable to access 'https://github.com/enthus1ast/nimCommandParser/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/enthus1ast/nimCommandParser/': Failed to connect to github.com port 443 after 131612 ms: Network is unreachable",
     ""
   ],
   "heads": []
