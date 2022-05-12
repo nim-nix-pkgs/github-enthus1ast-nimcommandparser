@@ -6,8 +6,37 @@
   "tags": [],
   "url": "https://github.com/enthus1ast/nimCommandParser",
   "refs": [
-    "fatal: unable to access 'https://github.com/enthus1ast/nimCommandParser/': Failed to connect to github.com port 443 after 131612 ms: Network is unreachable",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "name": "nimCommandParser",
+      "version": "0.1.1",
+      "author": "enthus1ast",
+      "desc": "parses this syntax: \"foo\\\"baa\" \"foo'baz\" bar",
+      "license": "MIT",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/heads/master"
+    }
+  ]
 }
